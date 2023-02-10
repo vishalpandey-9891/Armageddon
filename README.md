@@ -37,23 +37,35 @@
     - - [x] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
     - - [ ] Linear Search
+    - - - [ ] Sentinel Linear Search
     - - [ ] Binary Search
     - - [ ] Modified Binary Search
     - - [ ] Binary Search Interview questions
     - - [ ] Binary Search on 2D Arrays
-    - Linear search
- - - [ ]   Jump search
-        Interpolation search
-        Exponential search
-        Depth-first search (DFS)
-        Breadth-first search (BFS)
-        Best-first search
-        A* search
-        Hill climbing
-        Beam search
-        Simulated annealing
-        Genetic algorithms
-        Ant colony optimization
+    - - [ ] Jump search
+    - - [ ] Meta Binary Search | One-Sided Binary Search
+    - - [ ] Ternary Search
+    - - [ ] Fibonacci Search
+    - - [ ] The Ubiquitous Binary Search
+    - - [ ] Sublist search (Search a linked list in another list)
+    - - [ ]  substring search
+    - - [ ]  unbounded binary search
+    - - [ ]  interval search
+    - - [ ]  The Bidirectional Search
+    - - [ ]  Uniform Cost Search
+    - - [ ]  Greedy Best First Search
+    - - [ ]  Interpolation search
+    - - [ ]  Exponential search
+    - - [ ]  Depth-first search (DFS)
+    - - [ ]  Breadth-first search (BFS)
+    - - [ ]  Best-first search
+    - - [ ]  A* search
+    - - [ ]  Hill climbing
+    - - [ ]  Beam search
+    - - [ ]  Simulated annealing
+    - - [ ]  Genetic algorithms
+    - - [ ]  Ant colony optimization
+    - - [ ] Particle Swarm Optimization
 - [x] Pattern questions
 - [x] Strings
     - [x] Introduction
