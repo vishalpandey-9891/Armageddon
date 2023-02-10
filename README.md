@@ -2,12 +2,12 @@
 
 ## DSA
 - [ ] Complete Git & GitHub Course
-- [x] Introduction to Programming
+- [ ] Introduction to Programming
   - - [ ] Types of languages
-  - - [x] Memory management
-- [x] Flow of the program
-  - - [x] Flowcharts 
-  - - [x] Pseudocode
+  - - [ ] Memory management
+- [ ] Flow of the program
+  - - [ ] Flowcharts 
+  - - [ ] Pseudocode
 - [x] Introduction to Java
   - - [x] Introduction
   - - [x] How it works
@@ -37,7 +37,7 @@
     - - [x] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
     - - [ ] Linear Search
-    - - - [ ] Sentinel Linear Search
+    - - [ ] Sentinel Linear Search
     - - [ ] Binary Search
     - - [ ] Modified Binary Search
     - - [ ] Binary Search Interview questions
@@ -131,7 +131,7 @@
     - - [x] final, finalize, finally
     - - [x] Exception Handling
 - [x] Linked List
-    - - [x] Introduction
+    - - [] Introduction
     - - [x] Singly and Doubly Linked List
     - - [x] Circular Linked List
     - - [x] Fast and slow pointer
@@ -215,6 +215,8 @@
     - - [x] Applications
     - - [x] LC,GFG Questions
     - - [ ] Interview Questions
+ - [ ] Bloom Filters
+ - [ ] Matrix Operations
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
