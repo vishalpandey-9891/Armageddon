@@ -14,9 +14,9 @@
   - - [x] Setup Installation
   - - [x] Input and Output in Java
   - - [x] Conditionals & Loops in Java
-    - - [x] if else
-    - - [x] loops
-    - - [x] Switch statements
+   - - [x] if else
+   - - [x] loops
+   - - [x] Switch statements
   - - [x] Data types
   - - [x] Coding best practices
 - [x] Functions
@@ -31,12 +31,12 @@
   - - [x] Input and Output
   - - [x] ArrayList Introduction
   - - [x] Sorting 
-    - - [x] Insertion Sort
+   - - [x] Insertion Sort
     - - [x] Selection Sort
     - - [x] Bubble Sort
     - - [x] Cyclic Sort (Merge sort etc after recursion)
   - [ ] Searching 
-    - - [ ] Linear Search
+   - - [ ] Linear Search
     - - [ ] Sentinel Linear Search
     - - [ ] Binary Search
     - - [ ] Modified Binary Search
@@ -101,13 +101,13 @@
     - - [x] Tree building of function calls
     - - [x] Tail recursion
     - - [x] Sorting:
-        - - [x] Merge Sort
-        - - [x] Quick Sort
+     - - [x] Merge Sort
+      - - [x] Quick Sort
     - - [x] Backtracking
-        - - [x] Sudoku Solver
-        - - [x] N-Queens
-        - - [x] N-Knights
-        - - [x] Maze problems
+     - - [x] Sudoku Solver
+      - - [x] N-Queens
+      - - [x] N-Knights
+      - - [x] Maze problems
     - - [x] Recursion String Problems
     - - [x] Recursion Array Problems
     - - [x] Recursion Pattern Problems
@@ -118,10 +118,10 @@
     - - [x] Classes & its instances
     - - [x] this keyword in Java
     - - [x] Properties
-        - - [x] Inheritance
-        - - [x] Abstraction
-        - - [x] Polymorphism
-        - - [x] Encapsulation
+     - - [x] Inheritance
+      - - [x] Abstraction
+      - - [x] Polymorphism
+      - - [x] Encapsulation
     - - [x] Overloading & Overriding
     - - [x] Static & Non-Static
     - - [x] Access Control
@@ -146,58 +146,58 @@
     - - [x] Queue using Stack and Vice versa
     - - [x] Circular Queue
 - [ ] Dynamic Programming
-    - - [x] Introduction
-    - - [x] Recursion + Recursion DP + Iteration + Iteration Space Optimized
-    - - [x] Complexity Analysis
-    - - [x] 0/1 Knapsack
-    - - [x] Subset Questions
-    - - [x] DP on Grids
-    - - [x] LC Questions on Above topics
+    - - [ ] Introduction
+    - - [ ] Recursion + Recursion DP + Iteration + Iteration Space Optimized
+    - - [ ] Complexity Analysis
+    - - [ ] 0/1 Knapsack
+    - - [ ] Subset Questions
+    - - [ ] DP on Grids
+    - - [ ] LC Questions on Above topics
     - - [ ] Unbounded Knapsack
-    - - [x] Subseq questions
+    - - [ ] Subseq questions
     - - [ ] String DP
 - [ ] Trees
-    - - [x] Introduction
-    - - [x] Binary Trees
-    - - [x] Recursive Preorder, Inorder, Postorder Traversals
-    - - [x] Iterative Preorder, Inorder, Postorder Traversals
-    - - [x] LC Questions
-    - - [x] DFS
-    - - [x] BFS  
-    - - [x] Morris Traversal `O(1) Space`
-    - - [x] Binary Search Trees
-    - - [x] LC Questions
+    - - [ ] Introduction
+    - - [ ] Binary Trees
+    - - [ ] Recursive Preorder, Inorder, Postorder Traversals
+    - - [ ] Iterative Preorder, Inorder, Postorder Traversals
+    - - [ ] LC Questions
+    - - [ ] DFS
+    - - [ ] BFS  
+    - - [ ] Morris Traversal `O(1) Space`
+    - - [ ] Binary Search Trees
+    - - [ ] LC Questions
     - - [ ] AVL Trees
     - - [ ] Segment Tree
     - - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Heaps
-    - - [x] Introduction
-    - - [x] Theory
-    - - [x] Priority Queue
+    - - [ ] Introduction
+    - - [ ] Theory
+    - - [ ] Priority Queue
     - - [ ] Two Heaps Method
     - - [ ] k-way merge
     - - [ ] top k elements
     - - [ ] interval problems
 - [ ] Hashmaps
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Comparisons of various forms
-    - - [x] Limitations and how to solve
-    - - [x] Map using LinkedList
-    - - [x] Map using Hash
-    - - [x] Chaining
-    - - [x] Probing
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Comparisons of various forms
+    - - [ ] Limitations and how to solve
+    - - [ ] Map using LinkedList
+    - - [ ] Map using Hash
+    - - [ ] Chaining
+    - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
-    - - [x] Insert and Search
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
+    - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
+    - - [ ] Introduction
+    - - [ ] BFS
     - - [ ] DFS
     - - [ ] Working with graph components
     - - [ ] Bipartite Graph
@@ -205,11 +205,25 @@
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
-    - - [x] Dijkstra’s shortest path algorithm
-    - - [x] Topological Sort
-    - - [x] Kahn's Algorithm
+    - - [ ] Dijkstra’s shortest path algorithm
+    - - [ ] Topologically sort the vertices of a directed acyclic graph (DAG).
+    - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
+              Create an empty graph with a given number of vertices.
+              Add a new vertex to the graph.
+              Add a new edge between two vertices in the graph.
+              Remove a vertex from the graph.
+              Remove an edge between two vertices in the graph.
+              Check if a given vertex is in the graph.
+              Get the list of all vertices in the graph.
+              Get the list of all edges in the graph.
+              Get the neighbors of a given vertex in the graph.
+              Check if there is an edge between two given vertices in the graph.
+              Check if the graph is connected (i.e., there is a path between every pair of vertices).
+              Detect cycles in the graph.
+              Check if edge exists: Check if an edge between two vertices is present in the graph.
+              Get degree of a vertex: Retrieve the number of edges incident to a given vertex.
 - [ ] Greedy Algorithms
     - - [ ] Introduction
     - - [ ] Applications
@@ -246,7 +260,7 @@
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [x] File handling
+- [ ] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
@@ -257,10 +271,10 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [x] Lucas Theorem
-- [x] Chinese Remainder Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
