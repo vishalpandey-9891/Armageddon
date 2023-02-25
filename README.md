@@ -231,7 +231,7 @@
     - - [ ] Interview Questions
  - [ ] Bloom Filters
  - [ ] Matrix Operations
-     -- [ ] Addition of matrix
+      -- [ ] Addition of matrix
      -- [ ] Substraction of matrix
      -- [ ] Multiplication of matrix
      -- [ ] Division of matrix
