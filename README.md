@@ -198,10 +198,10 @@
 - [ ] Graphs
     - - [x] Introduction
     - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
-    - - [x] Bipartite Graph
-    - - [x] LC Questions
+    - - [ ] DFS
+    - - [ ] Working with graph components
+    - - [ ] Bipartite Graph
+    - - [ ] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
@@ -211,12 +211,38 @@
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
  - [ ] Bloom Filters
  - [ ] Matrix Operations
+     -- [ ] Addition of matrix
+     -- [ ] Substraction of matrix
+     -- [ ] Multiplication of matrix
+     -- [ ] Division of matrix
+     -- [ ] inverse of matrix
+     -- [ ] Adjoint  of matrix
+     -- [ ] transpose of matrix
+     -- [ ] Scalar Multiplication: Multiplying a matrix by a scalar value
+     -- [ ] Determinant: Calculating a scalar value that can be used to determine invertibility and other properties of a square matrix
+     -- [ ] Trace: The sum of the diagonal entries of a square matrix
+     -- [ ] Rank: The number of linearly independent rows or columns in a matrix
+     -- [ ] Eigenvalues and Eigenvectors: A scalar and corresponding non-zero vector that satisfy a certain equation
+     -- [ ] Diagonalization: Finding a diagonal matrix that is similar to a given matrix
+     -- [ ] LU Factorization: Factorizing a matrix into a lower triangular matrix and an upper triangular matrix
+     -- [ ] QR Factorization: Factorizing a matrix into an orthogonal matrix and an upper triangular matrix
+     -- [ ]  Singular Value Decomposition (SVD): Factorizing a matrix into three matrices that describe the matrix's rank and singular values. 
+     -- [ ] Orthogonalization
+     -- [ ] Null space
+     -- [ ] Row echelon form
+     -- [ ] Reduced row echelon form
+     -- [ ] Gram-Schmidt process
+     -- [ ] Projection
+     -- [ ] Reflection
+     -- [ ] Rotation
+     -- [ ] Cross product
+     -- [ ] Dot product
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
