@@ -35,6 +35,33 @@
     - - [x] Selection Sort
     - - [x] Bubble Sort
     - - [x] Cyclic Sort (Merge sort etc after recursion)
+
+Shell Sort
+Cocktail Sort
+Comb Sort
+Gnome Sort
+Odd-Even Sort
+Pancake Sort
+Stooge Sort
+Cocktail Sort
+Bead Sort
+Pigeonhole Sort
+Bitonic Sort
+Bogo Sort
+Cycle Sort
+
+Bubble Sort :-  Time Complexity: O(n^2)  Space Complexity: O(1)
+Selection Sort   Time Complexity: O(n^2)  Space Complexity: O(1)
+Insertion Sort  Time Complexity: O(n^2) (worst case), O(n) (best case)  Space Complexity: O(1)
+Merge Sort  Time Complexity: O(n log n)  Space Complexity: O(n)
+Quick Sort  Time Complexity: O(n log n) (average case), O(n^2) (worst case)  Space Complexity: O(log n) (average case), O(n) (worst case)
+Heap Sort  Time Complexity: O(n log n)  Space Complexity: O(1)
+Counting Sort  Time Complexity: O(n+k) (where k is the range of the input)  Space Complexity: O(n+k)
+Radix Sort   Time Complexity: O(d(n+k)) (where d is the number of digits in the largest number, and k is the range of the input)   Space Complexity: O(n+k)
+Bucket Sort   Time Complexity: O(n+k) (where k is the number of buckets)  Space Complexity: O(n+k)
+
+
+
   - [ ] Searching 
    - - [ ] Linear Search
     - - [ ] Sentinel Linear Search
@@ -199,6 +226,8 @@
     - - [ ] Introduction
     - - [ ] BFS
     - - [ ] DFS
+    -       Union find
+    -       Degree
     - - [ ] Working with graph components
     - - [ ] Bipartite Graph
     - - [ ] LC Questions
