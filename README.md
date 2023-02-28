@@ -165,6 +165,48 @@ Bucket Sort   Time Complexity: O(n+k) (where k is the number of buckets)  Space 
     - - [x] Cycle Detection
     - - [x] Reversing of LinekdList
     - - [x] Linked List Interview questions
+    
+Insertion at the beginning: A new node is added to the beginning of the list. This operation is also called push.
+Insertion at the end: A new node is added to the end of the list. This operation is also called append.
+Insertion at a specific position: A new node is added at a specific position in the list.
+Deletion from the beginning: The first node in the list is removed.
+Deletion from the end: The last node in the list is removed.
+Deletion from a specific position: A node at a specific position in the list is removed.
+Traversal: The list is traversed, i.e., all the nodes are visited one by one.
+Searching: A specific element is searched in the list.
+Length: The length of the list is calculated.
+Concatenation: Two linked lists are merged together to form a single linked list.
+Reversal: The order of the nodes in the list is reversed.
+Sorting: The elements in the list are arranged in a sorted order.
+Find the length of a linked list - We can find the number of elements in the linked list by traversing the list and counting the number of nodes.
+Check if a linked list is empty - We can check if a linked list is empty by checking if the head node is null.
+Swapping: Exchanging the positions of two nodes in the linked list.
+    Create a linked list - A linked list can be created by dynamically allocating memory for nodes and linking them together.
+    Splitting: Dividing a linked list into two separate lists.
+    Circularization: This operation is used to convert a singly linked list into a circular linked list by making the last node point to the first node.
+    Counting: This operation is used to count the number of nodes in the linked list.
+    
+    Cycle Detection: Write a function that detects if a linked list has a cycle or not.
+Intersection Detection: Write a function that detects if two linked lists intersect and returns the intersecting node.
+Palindrome Detection: Write a function that detects if a linked list is a palindrome.
+Duplicate Removal: Write a function that removes duplicates from a linked list.
+Middle Element: Write a function that finds the middle element of a linked list.
+Nth Element from End: Write a function that finds the Nth element from the end of a linked list.
+Addition: Write a function that adds two numbers represented as linked lists and returns the result as a linked list.
+Subtraction: Write a function that subtracts two numbers represented as linked lists and returns the result as a linked list.
+Multiplication: Write a function that multiplies two numbers represented as linked lists and returns the result as a linked list.
+
+Find the middle node of the linked list.
+Determine if the linked list is circular (i.e. has a cycle).
+Remove any cycles in the linked list.
+Implement a LRU cache using a doubly linked list and a hash map.
+Flatten a nested linked list and return it as a single linked list.
+Write a program to convert a binary tree into a linked list.
+
+Implement a function to clone a linked list with arbitrary pointers.
+
+
+
 - [x] Stacks & Queues
     - - [x] Introduction
     - - [x] Interview problems
@@ -226,8 +268,8 @@ Bucket Sort   Time Complexity: O(n+k) (where k is the number of buckets)  Space 
     - - [ ] Introduction
     - - [ ] BFS
     - - [ ] DFS
-    -       Union find
-    -       Degree
+    - - [ ] Union find
+    - - [ ]   Degree
     - - [ ] Working with graph components
     - - [ ] Bipartite Graph
     - - [ ] LC Questions
